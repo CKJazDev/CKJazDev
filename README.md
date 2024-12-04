@@ -1,4 +1,4 @@
-# 🌸✨ ¡Hola, soy [Jazmin Garduño Martinez]! ✨🌸
+# 🌸✨ ¡Hola, soy Jazmin Garduño Martinez! ✨🌸
 
 🌟 *Bienvenido a mi espacio en GitHub, donde la creatividad y el código se unen.* 🌈
 
