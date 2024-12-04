@@ -1,4 +1,4 @@
-# 🌸✨ ¡Hola, soy [Tu Nombre]! ✨🌸
+# 🌸✨ ¡Hola, soy [Jazmin Garduño Martinez]! ✨🌸
 
 🌟 *Bienvenido a mi espacio en GitHub, donde la creatividad y el código se unen.* 🌈
 
@@ -24,7 +24,7 @@
 ¡Me encantaría saber de ti! 🥰💌  
 Haz clic en los botones para visitar mis redes:  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/jazmin_arima_uwu]))  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/jazmin_arima_uwu])  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jazmín-garduño-martinez-0b7871337)  
 [![Correo](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gardunoyazmin26@gmail.com)
 
