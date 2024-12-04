@@ -6,7 +6,7 @@
 
 ## 👩‍💻 **Acerca de mí**
 
-✨ ¡Hola! Soy **Jazmin Garduño Martinez**, Ingeniera en sistemasa Computacionales apasionada por la tecnología, el diseño y las soluciones creativas.  
+✨ ¡Hola! Soy **Jazmin Garduño Martinez**, Ingeniera en Sistemas Computacionales apasionada por la tecnología, el diseño y las soluciones creativas.  
 
 💡 Siempre estoy aprendiendo algo nuevo y construyendo proyectos emocionantes.  
 
